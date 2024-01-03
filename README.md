@@ -8,9 +8,9 @@ lap data for analysis back at the computer.
 This project is Fork from https://github.com/jcowgar/opentx-laptimer
 Thanks to jcowgar for all the previous work.
 
--- Original Credit to:
--- Lap Timer by Jeremy Cowgar <jeremy@cowgar.com>
--- https://github.com/jcowgar/opentx-laptimer
+Original Credit to:
+Lap Timer by Jeremy Cowgar <jeremy@cowgar.com>
+https://github.com/jcowgar/opentx-laptimer
 
 Supported remote controls:
 Radiomaster MT12
