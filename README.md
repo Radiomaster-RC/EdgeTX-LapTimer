@@ -22,18 +22,9 @@ Radiomaster Pocket
 Installation
 ------------
 
-1. Copy `SCRIPTS/TELEMETRY/LAPTIMER.lua` to your SD card's `SCRIPTS/TELEMETRY`
-   folder. Create the folder if it does not exist.
-2. Copy the folder `BMP/LAPTIME` to your SD card's `BMP` folder. Create the
-   folder if it does not exist. In the end you should have `BMP/LAPTIME/S_SWHAND.bmp`
-   for example.
-3. Copy the folder `SOUNDS/LAPTIME` to your SD card's `SOUNDS/<LANG>` folder. `<LANG>`
-   should be abbreviation of you configured language. For example, English is `en` thus
-   the correct sounds directory would be `SOUNDS/en`. In the end you should have
-   `SOUNDS/en/LAPTIME/better.wav` for example.
-3. For any model you wish to enable the lap timer on, from the Telemetry setup
-   screen, add a new screen, choose *Script* as the Type, and `LAPTIMER.lua` for
-   the script name.
+1. Copy `SCRIPTS` and `SOUNDS` to the root directory of the SD card and merge them with the original directory.
+2. On the SYS-Tools page in EdgeTX, select and enter the LapTimer lua script.
+3. Enjoy it.
 
 Configuration
 -------------
@@ -108,4 +99,4 @@ you can configure some basic *Lap Timer* settings that affect all races.
 Release History
 ---------------
 
-* **Version 1.0.0 - Jan 12, 2016**: First public release, everything is new!
+* **Version 2.0.0 - Jan 3, 2024**: First public release, everything is new!
