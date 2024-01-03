@@ -1,13 +1,20 @@
-Lap Timer for OpenTX v2.1.x
+Lap Timer for EdgeTX
 ===========================
 
-The goal is to have an advanced lap timer on your OpenTX compatible radio
+The goal is to have an advanced lap timer on your EdgeTX compatible radio
 using as little controls as possible. It should be able to store race and
 lap data for analysis back at the computer.
 
-See https://www.youtube.com/watch?v=ZyI2gwdLWe0 for a quick demo of the Lap Timer.
+This project is Fork from https://github.com/jcowgar/opentx-laptimer
+Thanks to jcowgar for all the previous work.
 
-**NOTE**: OpenTX v2.1.x is required. Lap Timer does not work on OpenTX 2.0.x.
+
+Supported remote controls:
+Radiomaster MT12
+Radiomaster Boxer
+Radiomaster Zorro
+Radiomaster TX12/TX12 Mark II
+Radiomaster Pocket
 
 Installation
 ------------
