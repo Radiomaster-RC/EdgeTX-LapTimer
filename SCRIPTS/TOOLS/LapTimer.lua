@@ -1,7 +1,7 @@
--- Lap Timer V2.0
+-- Lap Timer V2.1.0
 -- Modified by RadioMaster RC 2023
 -- www.radiomasterrc.com
--- https://github.com/XXXXXGIT LINKXXXX
+-- https://github.com/Radiomaster-RC/EdgeTX-LapTimer
 -- 
 -- Original Credit to:
 -- Lap Timer by Jeremy Cowgar <jeremy@cowgar.com>
