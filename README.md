@@ -38,8 +38,9 @@ Installation
 ------------
 
 1. Copy `SCRIPTS` and `SOUNDS` to the root directory of the SD card and merge them with the original directory.
-2. On the SYS-Tools page in EdgeTX, select and enter the LapTimer lua script.
-3. Enjoy it.
+2. Copy your preferred audio file into the LAPTIME folder, replacing the default audio file there.
+3. On the SYS-Tools page in EdgeTX, select and enter the LapTimer lua script.
+4. Enjoy it.
 
 Configuration
 -------------
@@ -111,7 +112,4 @@ your race will be lost.
 From the *Race Setup* page you can press *Menu* to access the *Configuration* page. There
 you can configure some basic *Lap Timer* settings that affect all races.
 
-Release History
----------------
 
-* **Version 2.0.0 - Jan 3, 2024**: First public release, everything is new!
