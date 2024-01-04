@@ -1,4 +1,4 @@
--- Lap Timer V2.1.0
+-- Lap Timer V2.0.2
 -- Modified by RadioMaster RC 2023
 -- www.radiomasterrc.com
 -- https://github.com/Radiomaster-RC/EdgeTX-LapTimer
