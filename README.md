@@ -50,11 +50,11 @@ screen. Here, you can change a few key settings:
 
 * **Throttle Channel** - Output channel for your throttle. This is used to detect
   when a race starts for the first time from the *Timer* page. The output channel
-  is used instead of `Thr` stick values because the channel output may be overridden
+  is used instead of `Channel 2` values because the channel output may be overridden
   by Kill switches, for example. If the channel goes high, then your aircraft will
   take off.
 * **Lap Switch** - Switch you wish to use to indicate a lap was just completed. It
-  is best to put this on a momentary 2 position switch. On the Taranis, *SH* is
+  is best to put this on a momentary 2 position switch. On the MT12, *SC* is
   ideal.
 * **Speak Better/Worse** - If *Yes*, your radio will say "Better" if the lap you just
   completed is faster than your previous lap or "Worse" if slower. You can alter these
